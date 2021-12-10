@@ -102,11 +102,13 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
+/* renamed to h3 for code reuse */
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+/* 
+used h3 for code reuse
 
 .benefit-brand h3 {
     margin-bottom: 10px;
@@ -116,7 +118,7 @@ p {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} */
 /* added .benefit_img img to reduce repeat */
 .benefit_img img {
     display: block;
