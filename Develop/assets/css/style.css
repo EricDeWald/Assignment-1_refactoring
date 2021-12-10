@@ -21,8 +21,8 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/* removed .header h1 .seo so that i can remove the class "seo" in html  */
+span {
     color: #d9dcd6;
 }
 
@@ -51,8 +51,8 @@ body {
 p {
     font-size: 16px;
 } */
-
-.hero {
+/* changed hero class to Meeting_image */
+.Meeting_image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
