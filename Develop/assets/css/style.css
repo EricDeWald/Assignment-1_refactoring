@@ -143,8 +143,8 @@ used h3 for code reuse
     margin: 10px auto;
     max-width: 150px;
 } */
-
-.search-engine-optimization {
+/* rename for code reuse */
+.center_tiles {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -152,7 +152,7 @@ used h3 for code reuse
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* 
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -169,12 +169,12 @@ used h3 for code reuse
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.search-engine-optimization img {
+.center_tiles img {
     max-height: 200px;
 }
-
+/* 
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -186,7 +186,7 @@ used h3 for code reuse
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
